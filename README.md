@@ -63,9 +63,9 @@
 
 ---
 
-## 👀 Profile Visitors
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abhijit1326&icon=6&color=12" />
+  <img src="https://github.com/Abhijit1326/Abhijit1326/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
